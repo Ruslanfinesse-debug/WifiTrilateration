@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WifiTrilateration" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00CFFF</item>
+        <item name="colorPrimaryVariant">#0077AA</item>
+        <item name="colorOnPrimary">#0A1628</item>
+        <item name="android:windowBackground">#0A1628</item>
+        <item name="android:statusBarColor">#0A1628</item>
+    </style>
+</resources>
